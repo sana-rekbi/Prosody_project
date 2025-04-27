@@ -1,5 +1,3 @@
-# Prosody_project
-Link to the experiment : https://jatos.mindprobe.eu/publix/21TAbU2U8nC
 # Prosody Project
 
 **Link to the experiment:** [Mindprobe JATOS Link](https://jatos.mindprobe.eu/publix/21TAbU2U8nC)
