@@ -1,0 +1,16 @@
+participant_id,total_correct,total_responses,accuracy,avg_rt,participant_id_clean,Response ID,Date submitted,Last page,Start language,Seed,What is your gender?,Which languages do you speak fluently?,Are you a native speaker of Mandarin Chinese?,How old are you?,jatosStudyResultId,Tonal Speaker
+study_result_835292,30,45,0.6666666666666666,3377,835292,80.0,1980-01-01 00:00:00,1.0,en,472160064.0,Male,"armenian, english",No,19.0,835292,Non-Tonal
+study_result_835299,40,45,0.8888888888888888,1657,835299,,,,,,,,,,,
+study_result_835564,4,9,0.4444444444444444,4891,835564,83.0,,-1.0,en,1144236302.0,,,,,835564,
+study_result_835564,4,9,0.4444444444444444,4891,835564,84.0,,-1.0,en,1629944551.0,,,,,835564,
+study_result_837147,40,45,0.8888888888888888,2499,837147,85.0,1980-01-01 00:00:00,1.0,en,555714639.0,Male,"French, English",No,24.0,837147,Non-Tonal
+study_result_837155,32,36,0.8888888888888888,2937,837155,86.0,1980-01-01 00:00:00,1.0,en,211085082.0,Female,French,No,20.0,837155,Non-Tonal
+study_result_837166,34,45,0.7555555555555555,1264,837166,87.0,,-1.0,en,295958927.0,,,,,837166,
+study_result_837190,42,45,0.9333333333333333,1340,837190,88.0,1980-01-01 00:00:00,1.0,en,1065017596.0,Male,"Chinese, English",Yes,25.0,837190,Tonal
+study_result_837290,39,45,0.8666666666666667,1743,837290,91.0,,-1.0,en,1093842394.0,,,,,837290,
+study_result_837294,42,45,0.9333333333333333,1677,837294,92.0,1980-01-01 00:00:00,1.0,en,146815070.0,Female,French,No,19.0,837294,Non-Tonal
+study_result_837419,36,45,0.8,2263,837419,93.0,1980-01-01 00:00:00,1.0,en,888266977.0,Female,français,No,22.0,837419,Non-Tonal
+study_result_837872,20,45,0.4444444444444444,2933,837872,95.0,1980-01-01 00:00:00,1.0,en,751072529.0,Male,French,Yes,22.0,837872,Tonal
+study_result_837900,36,45,0.8,5579,837900,96.0,1980-01-01 00:00:00,1.0,en,2130646828.0,Female,"Francais, Arabic, English",No,24.0,837900,Non-Tonal
+study_result_838208,24,45,0.5333333333333333,1147,838208,97.0,1980-01-01 00:00:00,1.0,en,451481079.0,Male,"Allemagnen, French, English",No,20.0,838208,Non-Tonal
+study_result_838210,22,45,0.4888888888888889,915,838210,98.0,1980-01-01 00:00:00,1.0,en,1533764541.0,Female,French,No,23.0,838210,Non-Tonal
